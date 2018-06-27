@@ -2,7 +2,7 @@
 description: 新加一个page试试
 ---
 
-# 新加一个page试试
+# fabric-ca使用笔记
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
