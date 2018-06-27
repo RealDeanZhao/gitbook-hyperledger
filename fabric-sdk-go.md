@@ -23,13 +23,13 @@ _fabsdk.FabricSDK对每个组织实例化一次即可_
 * join
 * save \(create以及update\)
 
-_注意invoke chaincode实际上是用的channel.Client_
+_注意invoke chaincode实际上是用的_[_channel.Client_](fabric-sdk-go.md#channel-client)
 
 ### resmgmt.New
 
 通过resmgmt.New方法来生成实例, New方法里面需要传入context.ClientProvider. 
 
-context.ClientProvider需要通过[fabsdk.FabricS](fabric-sdk-go.md#fabsdk-fabricsdk) 和[msp.Clien](fabric-sdk-go.md#msp-client) 生成.
+context.ClientProvider需要通过[fabsdk.FabricSDK](fabric-sdk-go.md#fabsdk-fabricsdk)和[msp.Client](fabric-sdk-go.md#msp-client)生成.
 
 _resmgmt.Client对每个组织实例化一次即可_
 
