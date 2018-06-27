@@ -1,22 +1,4 @@
----
-description: 我真的是来测试一下的
----
-
-# 我来测试一下
-
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
+# hyperledger fabric开发笔记
 
 ```
 // Ain't no code for that yet, sorry
