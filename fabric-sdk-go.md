@@ -1,5 +1,7 @@
 ---
-description: fabric-sdk-go常用包的用法讲解
+description: >-
+  fabric-sdk-go常用包的用法讲解
+  [使用Gitbook阅读](https://realdeanzhao.gitbook.io/hyperledger/fabric-sdk-go)
 ---
 
 # fabric-sdk-go
